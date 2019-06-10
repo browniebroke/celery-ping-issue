@@ -1,2 +1,2 @@
 celery[redis]==4.3.0
-kombu[redis]==4.6.0
+https://github.com/celery/kombu/archive/master.zip
