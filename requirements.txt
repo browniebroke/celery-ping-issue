@@ -1,0 +1,2 @@
+celery[redis]==4.3.0
+kombu[redis]==4.6.0
