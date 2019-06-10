@@ -1,0 +1,4 @@
+dist: xenial
+services:
+  - docker
+script: ./run_test.sh
