@@ -1,2 +1,2 @@
 celery[redis]==4.3.0
-git+https://github.com/celery/kombu.git@95e148a54772183c37c9037b31d35b85f86711d4
+git+https://github.com/celery/kombu.git@c1b1010daa6c8cee35230ce2f73b3f2c3bb7b10b
